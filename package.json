@@ -1,0 +1,19 @@
+{
+  "name": "proyecto1-telematica",
+  "version": "1.0.0",
+  "description": "Aplicacion web sobre registro de comentarios similar a Twitter o Reddit",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danidehs/Proyecto1-Telematica.git"
+  },
+  "author": "Daniel Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danidehs/Proyecto1-Telematica/issues"
+  },
+  "homepage": "https://github.com/Danidehs/Proyecto1-Telematica#readme"
+}
