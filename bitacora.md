@@ -7,3 +7,4 @@ Aplicacion web de registro de comentarios sobre un tema, similar a Twitter o Red
            - Probando base de datos
 
 02/08/2019 - Creando servidor y funcionamiento BD
+           - Agregando dependencias para el desarrollo del frontend
