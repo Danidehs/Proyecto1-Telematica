@@ -1,18 +1,23 @@
 # Proyecto1-Telematica
 Aplicacion web de registro de comentarios sobre un tema, similar a Twitter o Reddit
 
-24/07/2019 - Creacion del proyecto
+24/07/2019 
+- Creacion del proyecto
 
-31/07/2019 - Agregando estructura de la aplicacion
-           - Probando base de datos
+31/07/2019 
+- Agregando estructura de la aplicacion
+- Probando base de datos
 
-02/08/2019 - Creando servidor y funcionamiento BD
-           - Agregando dependencias para el desarrollo del frontend
+02/08/2019 
+- Creando servidor y funcionamiento BD
+- Agregando dependencias para el desarrollo del frontend
 
-08/08/2019 - Integrando parte del FrontEnd con el BackEnd*
-           - Prueba appwebArticuloNodejs en DCA y AWS funcionando luego de varios errores
-           - Creado Elastic IP de la instancia EC2 de AWS
-           - Seleccion y configuracion del dominio http://dehernandsproy1tele.tk/
+08/08/2019 
+- Integrando parte del FrontEnd con el BackEnd*
+- Prueba appwebArticuloNodejs en DCA y AWS funcionando luego de varios errores
+- Creado Elastic IP de la instancia EC2 de AWS
+- Seleccion y configuracion del dominio http://dehernandsproy1tele.tk/
 
-13/08/2019 - Finalizando app web 
-           - 
+13/08/2019 
+- Finalizando app web 
+- 
