@@ -13,3 +13,6 @@ Aplicacion web de registro de comentarios sobre un tema, similar a Twitter o Red
            - Prueba appwebArticuloNodejs en DCA y AWS funcionando luego de varios errores
            - Creado Elastic IP de la instancia EC2 de AWS
            - Seleccion y configuracion del dominio http://dehernandsproy1tele.tk/
+
+13/08/2019 - Finalizando app web 
+           - 
