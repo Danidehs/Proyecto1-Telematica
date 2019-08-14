@@ -1,8 +1,16 @@
 const express = require('express')
 const morgan = require('morgan')
 const path = require('path')
+const mongoose = require ('mongoose')
+const config = require('./database')
 
-const { Mongoose } = require('./database')
+//const { mongoose } = require('./database')
+
+mongoose.connect(config.db);
+var db = mongoose.connection;
+db.on('error', function () {
+  throw new Error('unable to connect to database at ' + config.db);
+});
 
 const app = express()
 
@@ -14,7 +22,7 @@ app.use(morgan('dev'))
 app.use(express.json())
 
 // Routes
-app.use('/api/tasks' ,require('./routes/tasks.routes'))
+app.use('/api/tasks' , require('./routes/tasks.routes'))
 
 // Static Files
 app.use(express.static(path.join(__dirname, 'public')));;
