@@ -7,8 +7,6 @@ LABEL maintainer="Daniel Hernandez - dehernands@eafit.edu.co"
 ARG PORT=3000
 ENV PORT $PORT
 
-RUN git clone https://github.com/Danidehs/Proyecto1-Telematica.git
-
 WORKDIR /nodeApp
 COPY . ./
 
