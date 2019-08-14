@@ -20,4 +20,4 @@ Aplicacion web de registro de comentarios sobre un tema, similar a Twitter o Red
 
 13/08/2019 
 - Finalizando app web 
-- 
+- Dockerizando appweb (prueba)
