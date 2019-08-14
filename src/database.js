@@ -21,7 +21,7 @@ var config = {
       name: 'proyecto1-telematica'
     },
     port: process.env.PORT || 3000,
-    db: 'mongodb://mongo-server/proyecto1-telematica-test'
+    db: 'mongodb://localhost/proyecto1-telematica-test'
   },
 };
 
