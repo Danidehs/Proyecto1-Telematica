@@ -18,7 +18,7 @@ db.on('error', function () {
 const app = express()
 
 // Configuracion
-app.set('port', process.env.PORT || 4000 )
+app.set('port', process.env.PORT || 80 )
 
 // Middlewares
 app.use(morgan('dev'))
