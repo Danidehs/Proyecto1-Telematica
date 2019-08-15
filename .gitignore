@@ -44,6 +44,7 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+data/
 
 # TypeScript v1 declaration files
 typings/
@@ -90,8 +91,5 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
-
-# Git ignore file
-.gitignore
 
 # End of https://www.gitignore.io/api/node
