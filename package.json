@@ -2,7 +2,7 @@
   "name": "proyecto1-telematica",
   "version": "1.0.0",
   "description": "Aplicacion web sobre registro de comentarios similar a Twitter o Reddit",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
@@ -17,7 +17,7 @@
   "homepage": "https://github.com/Danidehs/Proyecto1-Telematica#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.6.7",
+    "mongoose": "^5.6.9",
     "morgan": "^1.9.1"
   },
   "devDependencies": {
@@ -26,12 +26,12 @@
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.6",
     "nodemon": "^1.19.1",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "webpack": "^4.39.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "webpack": "^4.39.2",
     "webpack-cli": "^3.3.6"
   },
   "engines": {
-    "node": ">7.7.4"
+    "node": "^7.7.4"
   }
 }
