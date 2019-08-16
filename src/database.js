@@ -9,6 +9,9 @@ mongoose.connect(URI)
 module.exports = mongoose 
 
 */
+
+//Conexion bases de datos
+
 var path = require('path'),
     rootPath = path.normalize(__dirname + '/..'),
     env = process.env.NODE_ENV || 'test';

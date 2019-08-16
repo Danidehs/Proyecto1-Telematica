@@ -16,7 +16,7 @@ Aplicacion web de registro de comentarios sobre un tema, similar a Twitter o Red
 - Integrando parte del FrontEnd con el BackEnd*
 - Prueba appwebArticuloNodejs en DCA y AWS funcionando luego de varios errores
 - Creado Elastic IP de la instancia EC2 de AWS
-- Seleccion y configuracion del dominio http://dehernandsproy1tele.tk/
+- Seleccion y configuracion del dominio dehernandsproy1tele.tk
 
 13/08/2019 
 - Finalizando app web 
@@ -25,3 +25,9 @@ Aplicacion web de registro de comentarios sobre un tema, similar a Twitter o Red
 14/08/2019
 - Problemas conexion BD al desplegarlo con docker en AWS (arreglar)
 - **Aplicacion montada en el DCA funcionando**
+
+15/08/2019
+- Aplicacion funcional en AWS con Docker, problema arreglado mediante los puertos
+
+16/08/2019
+- Intentando agregar certificado SSL a pagina del AWS

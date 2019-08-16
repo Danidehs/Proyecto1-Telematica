@@ -12,5 +12,5 @@ COPY . ./
 
 RUN npm install --test
 
-EXPOSE 80
+EXPOSE 3000
 CMD npm start
